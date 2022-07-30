@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 2567132b9b565a343a554354b90afb3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8200103102250130287
+    second: Baskets_0
+  - first:
+      213: -7008674732003118897
+    second: Baskets_1
+  - first:
+      213: -2543145920652045026
+    second: Baskets_2
+  - first:
+      213: -4060328639305929361
+    second: Baskets_3
+  - first:
+      213: 4040826541178897561
+    second: Baskets_4
+  - first:
+      213: 7520270176292272422
+    second: Baskets_5
+  - first:
+      213: -2278775596568641792
+    second: Baskets_6
+  - first:
+      213: -8770817367906860786
+    second: Baskets_7
+  - first:
+      213: 6420246921940193842
+    second: Baskets_8
+  - first:
+      213: 1397988265754206276
+    second: Baskets_9
+  - first:
+      213: -4157434606800905144
+    second: Baskets_10
+  - first:
+      213: -5688294355133294354
+    second: Baskets_11
+  - first:
+      213: -5278286126199888937
+    second: Baskets_12
+  - first:
+      213: -3785209225375937996
+    second: Baskets_13
+  - first:
+      213: 857588592495157044
+    second: Baskets_14
+  - first:
+      213: 5374921617586149571
+    second: Baskets_15
+  - first:
+      213: 6784192090119512743
+    second: Baskets_16
+  - first:
+      213: -6976336373374372184
+    second: Baskets_17
+  - first:
+      213: -6502831946385773710
+    second: Baskets_18
+  - first:
+      213: 4201718443370165560
+    second: Baskets_19
+  - first:
+      213: -1453857651920797264
+    second: Baskets_20
+  - first:
+      213: 1001384045596795987
+    second: Baskets_21
+  - first:
+      213: -7465125293219422915
+    second: Baskets_22
+  - first:
+      213: -244314858025357985
+    second: Baskets_23
+  - first:
+      213: -8703112303442232913
+    second: Baskets_24
+  - first:
+      213: -4167244267473565529
+    second: Baskets_25
+  - first:
+      213: 1805107064602225042
+    second: Baskets_26
+  - first:
+      213: 6223375939189066021
+    second: Baskets_27
+  - first:
+      213: 8693578309652348505
+    second: Baskets_28
+  - first:
+      213: 8757739285783775668
+    second: Baskets_29
+  - first:
+      213: -2391649687636097300
+    second: Baskets_30
+  - first:
+      213: 9127122255043849547
+    second: Baskets_31
+  - first:
+      213: 5902913512626356963
+    second: Baskets_32
+  - first:
+      213: 4134376401913858478
+    second: Baskets_33
+  - first:
+      213: -2632612584350977556
+    second: Baskets_34
+  - first:
+      213: -6352148070301790497
+    second: Baskets_35
+  - first:
+      213: 3646990723150170920
+    second: Baskets_36
+  - first:
+      213: 4876931138867339848
+    second: Baskets_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Baskets_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 103
+        width: 373
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b9233535e9cc170800000000000000
+      internalID: 8200103102250130287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baskets_1
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 64
+        width: 373
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0b2bcf67f2cbe90800000000000000
+      internalID: -7008674732003118897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baskets_2
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 25
+        width: 323
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e151d83624ee4bcd0800000000000000
+      internalID: -2543145920652045026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
